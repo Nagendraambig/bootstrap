@@ -1,3 +1,7 @@
+body {
+    font-family: sans-serif;
+    
+}
 .row-header {
     margin: 0 auto;
     padding: 0 auto;
@@ -23,4 +27,7 @@
     margin: 0;
     font-size: 80%;
     color: #0f0f0f;
+}
+.p-content {
+    margin: 20px auto;
 }
