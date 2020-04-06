@@ -31,3 +31,6 @@ body {
 .p-content {
     margin: 20px auto;
 }
+.navbar-dark {
+    background-color: #512DA8;
+}
